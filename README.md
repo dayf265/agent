@@ -1,1 +1,1 @@
-Zions Bank uses cookie trackers for the operation and optimization of our website. The protection of personal data and cookie management page provides details
+(https://github.com/dayf265/agent/assets/160276634/b0a234ee-ba9c-4e88-a79d-bf38798f6789)
