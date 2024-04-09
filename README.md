@@ -1,1 +1,1 @@
-src="https://play-lh.googleusercontent.com/8OhAT0EUuOtiQ0QWeplRbt68rEJB88HO3PVP4SLYLq7rijm2myKshnhvpW3goiqoKxps"
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
