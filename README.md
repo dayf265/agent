@@ -1,1 +1,1 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Zionsbank_logo.PNG" width="1800" height="1164">
+<img alt="Cover image" class="bg mk nh c" width="700" height="348" loading="eager" src="https://miro.medium.com/v2/resize:fit:700/1*Q9rG-O16IswIzCtCVYX4nA.gif">
